@@ -1,0 +1,3 @@
+stock,TD,Toronto Dominion Bank,500,69.31,25009.99
+mutualfund,CIG677,CI Signature Select Canadian,450,26.95,9000.00
+stock,RBC,Royal Bank,400,45.00,36500.14
